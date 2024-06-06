@@ -1,0 +1,12 @@
+#Ignore instalador do TABWIN415
+Instalador-TABWIN415/
+
+#Ignore Dataset retirado do kaggle
+datasus_suicidio_2014_2018.csv
+
+#Ignore arquivos compactados
+*.zip
+
+#Ignore arquivos de datasets não csv
+Dados SUS/DBC_FILE
+Dados SUS/DBF_FILE
